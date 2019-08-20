@@ -1,0 +1,21 @@
+.error-indicator {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #c78f22;
+}
+.error-img {
+    width: 6rem;
+    height: 6rem;
+}
+.span2 {
+    margin-left: 2rem;
+}
+
+@media(min-width: 992px) {
+    .error-img {
+        width: 10rem;
+        height: 10rem;
+    }
+}
