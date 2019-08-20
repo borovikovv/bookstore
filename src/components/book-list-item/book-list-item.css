@@ -3,6 +3,7 @@
 }
 .book-list-item  > .book-cover > .cover-image {
     width: 9rem;
+    height: 13rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
     margin-right: 2rem;
